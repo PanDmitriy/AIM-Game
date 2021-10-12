@@ -13,17 +13,17 @@ body {
   text-align: center;
 }
 
-a {
-  color: #fff;
-  text-decoration: none;
-}
-
-a:hover {
+button:hover {
   color: #16D9E3;
 }
 
 .start {
   font-size: 1.5rem;
+  cursor: pointer;
+  background: transparent;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
 }
 
 h1 {
